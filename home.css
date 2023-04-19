@@ -1,0 +1,53 @@
+.content{
+    width: 1425px;
+    height: 100px;
+    background-color: rgb(150, 243, 156);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    border: 3px solid rgb(0, 0, 0);
+    
+}
+
+.uu{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-size: 40px;
+    
+
+}
+
+
+
+.aa{
+    width: 1425px;
+    height: 150px;
+    background-color: rgb(250, 129, 129);
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.bb{
+    width: 1425px;
+    height: 150px;
+    background-color: rgb(246, 164, 106);
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cc{
+    width: 1425px;
+    height: 150px;
+    background-color: rgb(232, 255, 128);
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

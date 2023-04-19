@@ -1,0 +1,17 @@
+.content{
+    width: 1600px;
+    height: 100px;
+    display: flex;
+}
+
+h1{
+    display: flex;
+    width: 1400px;
+    height: 100px;
+    background-color: skyblue;
+    text-align: center;
+    outline: dashed 2px black;
+    font-size: 40px;
+    justify-content: center;
+    line-height:100px;
+}
